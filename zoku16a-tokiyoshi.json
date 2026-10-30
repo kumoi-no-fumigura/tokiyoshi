@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/tokiyoshi",
  "yomi": "さきのさんぎときよしきょうしゅう",
  "category": "私家集",
- "description": null,
+ "description": {
+  "kind": "私家集",
+  "era": "安土桃山〜江戸初期",
+  "author": "西洞院時慶",
+  "desc": "公家西洞院時慶の家集。永禄・天正から後年にかけての御会・月次会などの詠を年月とともに収め、鼠に喰われて残った断簡を含む旨の注記もある。"
+ },
  "editions": [
   {
    "pid": "936505",
